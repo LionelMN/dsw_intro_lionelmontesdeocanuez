@@ -10,7 +10,11 @@
     <?php
         echo '
             <table border=1>
+                
                 <tr>
+                <tr>
+                <th>pepe se comio una gamba</th>
+                </tr>
                     <td>'.date('r').'</td>
                     <td>'.date('H:i:s:a').'</td>
                 </tr>
