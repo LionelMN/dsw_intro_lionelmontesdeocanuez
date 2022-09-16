@@ -11,7 +11,7 @@
         echo '
             <table border=1>
                 <tr>
-                    <th>pepe se comio una gamba</th>
+                    <th>Tabla de prueba</th>
                 </tr>
                     <td>'.date('r').'</td>
                     <td>'.date('H:i:s:a').'</td>
